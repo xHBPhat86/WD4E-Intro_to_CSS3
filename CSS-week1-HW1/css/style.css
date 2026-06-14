@@ -43,3 +43,16 @@ h1 {
 p {
   line-height: 1.6;
 }
+
+nav a {
+  color: #003366;
+}
+
+main a {
+  color: #003366;
+}
+
+footer a {
+  color: #ffffff;
+  text-decoration: underline;
+}
